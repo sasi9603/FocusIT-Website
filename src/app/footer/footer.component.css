@@ -1,0 +1,35 @@
+.body {
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+    padding: 20px;
+    background-color:#223D74; 
+}
+h5{
+    color: white;
+}
+img{
+    height: 80px;
+    width: 220px;
+    margin-top: 20px;
+}
+a{
+    color: white;
+}
+
+.link2 :hover{
+    border: 1px solid white;
+    padding: 5px;
+   
+}
+.body{
+    background-color:#193670;
+}
+.icons{
+    line-break: 10px;
+}
+
+p:hover
+{
+    color: green;
+}
